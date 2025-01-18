@@ -1,6 +1,6 @@
 ## The file contains two dashboards
 # 1.Pizzas ordered
-  -[visualization/pizzas ordered.png]
+  -Dashboard1[visualization/pizzas ordered.png]
   -Here the dashboard provide the summary of following insights
    **Top pizzas,pizza types,most ordered and loved pizzas of customer**
 # 2.Revenue
