@@ -1,3 +1,3 @@
 ## The file contains two dashboards
-# 1. [Dashboard1](pizzas ordered)
+# 1. [Dashboard1][visualization/pizzas ordered.png]
   -The dashboard
