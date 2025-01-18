@@ -9,6 +9,8 @@ This project uses **sql query** to analyze pizza sales data,clean datasets and e
 1.Aggregate functions
 2.Joins
 3.Window functions(rank())
+## Key insights of pizza sales
+ visit the foolowing link **insights.md**
 ## Sample Query -Top 5 Best-selling Pizzas
 List the top 5 most ordered pizza types along with their quantities.
 
