@@ -26,5 +26,3 @@
     **Chicken -	23.95**
 ## 8.Total revenue generated
    -The total revenue in generated is **$817860.04**
-
--- Veggie	23.682590927384783
