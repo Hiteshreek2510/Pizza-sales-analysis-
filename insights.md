@@ -1,4 +1,4 @@
-### Pizza sales insights report
+# Pizza sales insights report
 ## 1.Total number of order placed 
    - **21350** is the total number of order placed
 ## 2.Highest priced pizza 
