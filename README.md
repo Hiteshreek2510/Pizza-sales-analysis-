@@ -4,6 +4,7 @@ SQL data analytics project analyzinng pizza sales data to gain insights into cus
 This project uses **sql query** to analyze pizza sales data,clean datasets and extract key insights.The final results are visualized using **Tableau**
 ## Dataset
 **Sources**
+[Pizza-sales-analysis](https://github.com/Ayushi0214/pizza-sales---SQL/blob/main/pizza_sales.zip)
 ### SQL Queries
 **Key SQL techniques used:**
 1.Aggregate functions
